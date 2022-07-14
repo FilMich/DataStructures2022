@@ -1,0 +1,5 @@
+﻿  sorting_test.cpp
+C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\tests\table\sorting_test.cpp(47,29): warning C4456: declaration of 'data' hides previous local declaration
+C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\tests\table\sorting_test.cpp(37,20): message : see declaration of 'data'
+  file_log_consumer.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  AUSLite.vcxproj -> C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\x64\Debug\DataStructures.exe

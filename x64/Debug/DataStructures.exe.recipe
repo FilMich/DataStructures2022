@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\x64\Debug\DataStructures.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\images\debug.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\images\elapsed.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\images\error.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\images\info.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\images\ok.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\images\warning.png</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

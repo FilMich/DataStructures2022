@@ -1,0 +1,10 @@
+C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\x64\Release\AUSLite.gui.main_form.resources
+C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\x64\Release\AUSLite.vcxproj.GenerateResource.cache
+C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\x64\Release\images\debug.png
+C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\x64\Release\images\elapsed.png
+C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\x64\Release\images\error.png
+C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\x64\Release\images\info.png
+C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\x64\Release\images\ok.png
+C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\x64\Release\images\warning.png
+C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\x64\Release\DataStructures.exe
+C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\x64\Release\AUSLite.vcxproj.AssemblyReference.cache

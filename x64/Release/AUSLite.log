@@ -1,0 +1,27 @@
+﻿  matrix_test.cpp
+C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\tests\matrix\matrix_test.cpp(294,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\tests\matrix\matrix_test.cpp(351,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\tests\matrix\matrix_test.cpp(409,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\tests\matrix\matrix_test.cpp(467,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\tests\matrix\matrix_test.cpp(525,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\tests\matrix\matrix_test.cpp(582,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\tests\matrix\matrix_test.cpp(640,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\tests\matrix\matrix_test.cpp(698,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\tests\matrix\matrix_test.cpp(766,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\tests\matrix\matrix_test.cpp(808,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\tests\matrix\matrix_test.cpp(851,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\tests\matrix\matrix_test.cpp(892,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\structures\matrix\coherent_matrix.h(152,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\structures\matrix\coherent_matrix.h(151): message : while compiling class template member function 'T &structures::CoherentMatrix<T>::at(int,int)'
+          with
+          [
+              T=int
+          ]
+C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\tests\matrix\matrix_test.cpp(88): message : see reference to function template instantiation 'T &structures::CoherentMatrix<T>::at(int,int)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\tests\matrix\matrix_test.cpp(29): message : see reference to class template instantiation 'structures::CoherentMatrix<int>' being compiled
+  file_log_consumer.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  AUSLite.vcxproj -> C:\Users\Filip\Downloads\AUS_VS2019\AUS_VS2019\x64\Release\DataStructures.exe
